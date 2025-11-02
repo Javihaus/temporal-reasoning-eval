@@ -8,7 +8,6 @@
 [![Code style: research](https://img.shields.io/badge/code%20style-research-brightgreen.svg)](https://github.com/jmarin/temporal-reasoning-eval)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/yourusername/temporal-reasoning-eval/graphs/commit-activity)
-[![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/temporal-reasoning-eval)](https://github.com/yourusername/temporal-reasoning-eval/commits/main)
 
 > Systematic characterization of temporal constraint processing failures in production-scale language models (2.8-8B parameters)
 
