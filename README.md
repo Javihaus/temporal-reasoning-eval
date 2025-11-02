@@ -1,2 +1,3 @@
 # temporal-reasoning-eval
-Experiments conducted for the paper ""
+We release experimental notebooks documenting our research workflow in Google Colab environments. These are research artifacts showing the actual experimental process, including interactive model loading, manual memory management, and iterative evaluation. They are not production software but provide complete transparency about our methodology. Users replicating experiments should expect to adapt the interactive workflow to their computational environment.
+For researchers seeking polished evaluation frameworks, we recommend adapting our methodology to their infrastructure. For practitioners verifying our findings, the notebooks provide sufficient detail to understand and reproduce our experimental protocol.
