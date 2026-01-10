@@ -134,11 +134,14 @@ For production evaluation frameworks, we recommend adapting our methodology to y
 If you use this work, please cite:
 
 ```bibtex
-@article{marin2025temporal,
-  title={Empirical Characterization of Temporal Constraint Processing in LLMs},
-  author={Marin, Javier},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
-  year={2025}
+@misc{marín2025empiricalcharacterizationtemporalconstraint,
+      title={Empirical Characterization of Temporal Constraint Processing in LLMs}, 
+      author={Javier Marín},
+      year={2025},
+      eprint={2511.10654},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2511.10654}, 
 }
 ```
 
@@ -176,9 +179,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 ## Contact
 
 **Javier Marín**  
-Applied AI Consultant | Production AI Systems + Regulatory Compliance
 javier@jmarin.info  
-[GitHub](https://github.com/jmarin)
 
 ## Acknowledgments
 
