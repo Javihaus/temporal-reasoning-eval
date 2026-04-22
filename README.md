@@ -162,10 +162,10 @@ If you use this work, please cite:
 
 | Model | Before | After | Change |
 |-------|--------|-------|--------|
-| Llama-3.1-8B | 25.0% | 62.5% | +37.5pp |
-| Qwen2.5-7B | 62.5% | 87.5% | +25.0pp |
-| Mistral-7B | 62.5% | 75.0% | +12.5pp |
-| DeepSeek-R1 | 37.5% | 50.0% | +12.5pp |
+| Llama-3.1-8B | 25.0% | 62.5% | +37.5% |
+| Qwen2.5-7B | 62.5% | 87.5% | +25.0% |
+| Mistral-7B | 62.5% | 75.0% | +12.5% |
+| DeepSeek-R1 | 37.5% | 50.0% | +12.5% |
 
 ## Contributing
 
